@@ -1,3 +1,3 @@
 # hello-world
-new comer
+this for who ?
 another readme.md
